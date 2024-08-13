@@ -7,7 +7,7 @@ function Home() {
 
 <div>
 <div className="nav-item" style={{ marginBottom: '10px' }}>
-  <img src="" alt="Admin" className="nav-img" />
+  <img src="images/admin.jpeg" alt="Admin" className="nav-img" />
   <Link to="/register/admin">
     <button className="btn" style={{ backgroundColor: '#4CAF50', color: 'white', padding: '10px', border: 'none', cursor: 'pointer' }}>ADMIN</button>
   </Link>
